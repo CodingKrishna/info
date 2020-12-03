@@ -10,3 +10,4 @@ git config --global user.email hyalamat@cisco.com
 4. add ssh key in setting and past which is copied in step1.  
 5. git clone git@sqbu-github.cisco.com:CCBU-CCOne/cc-one.git.   
 6. git clone git@sqbu-github.cisco.com:CCBU-CCOne/automation.git. 
+7. git clone git@sqbu-github.cisco.com:CBABU/tm-v2.git.  
